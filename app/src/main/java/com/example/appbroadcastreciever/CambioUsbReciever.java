@@ -13,7 +13,7 @@ public class CambioUsbReciever extends BroadcastReceiver {
                 if(usbConectado){
                     Toast.makeText(context, "El Usb se conecto", Toast.LENGTH_SHORT).show();
                 }else{
-                    Toast.makeText(context, "El Usb se desconecto", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(context, "El Usb se desconectooo", Toast.LENGTH_SHORT).show();
                 }
     }
 }
